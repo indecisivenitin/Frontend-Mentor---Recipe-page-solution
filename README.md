@@ -26,7 +26,7 @@ i will provide the screenshot of challenge template.
 ### Links
 
 - Solution Files are provided in repository.
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [live solution link](t https://indecisivenitin.github.io/Frontend-Mentor---Recipe-page-solution/)
 
 ## My process
 
